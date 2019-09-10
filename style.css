@@ -1,0 +1,17 @@
+div {
+    text-align: center;
+    overflow: hidden;
+    border: 4px dashed limegreen;
+    width: 800px;
+    background-image: url("https://i.pinimg.com/originals/32/91/94/329194203855d02ce008ad6641815b1d.png");
+    
+}   
+
+img{
+    width: 500px;
+}
+
+p{
+    font-size: 25px;
+    color: lime;
+}
